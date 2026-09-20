@@ -1,0 +1,7 @@
+{
+	["firstwasdev"] = {
+		name = "firstwasdev",
+		redeemMessage = "That statue looks like the dev...",
+		redeemFunctionNum = 1
+	}
+}
